@@ -20,7 +20,7 @@
 # Set the variable $Tenant = "" to match your own environment
 #
 # $Login = Add-RDSAccount -DeploymentUrl https://rdbroker.wvd.microsoft.com -Credential XXXX@XXXX.onmicrosoft.com
-# $Tenantgrp = Set-RdsContext -TenantGroupName "XXXXX" 
+# Set-RdsContext -TenantGroupName "XXXXX" 
 # Set-RdsTenant -Name "XXXXXX" -AzureSubscriptionId a5915b41-XXXX-XXX-9dcc-5019fcc116e3 
 # $Tenant = "XXXXXXX"
 
